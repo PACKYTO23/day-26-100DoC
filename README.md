@@ -5,3 +5,4 @@ Day 26 - List and Dictionary Comprehensions
 
 Specific (and short) notes and titles written in main.py. 
   Unfinished practice (19/02/2024); update tomorrow.
+  Finished practice (20/02/2024); updated.
